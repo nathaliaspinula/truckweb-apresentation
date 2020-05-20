@@ -1,2 +1,2 @@
-rootProject.name='TruckwebApplication'
+rootProject.name='Truckweb'
 include ':app'
